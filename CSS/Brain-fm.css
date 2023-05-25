@@ -1,0 +1,88 @@
+head {
+    color: white;
+}
+
+body {
+    background-color: rgba(73, 20, 248);
+    font-family: Arial;
+}
+
+.section-1 {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 60px 20px;
+}
+
+input[type='email'] {
+    padding: 7px;
+}
+
+input[type='button'] {
+    padding: 7px 20px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 44px;
+    margin: 8px 2px;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: #999999
+}
+
+.headline-1 {
+    font-size: 40px;
+}
+
+.section-2 {
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.section-3 {
+    display: flex;
+    padding-left: 140px;
+    Padding-right: 140px;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.right-side {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.headline-2 {
+    font-size: 25px;
+
+}
+
+.headline-3 {
+    font-size: 25px;
+}
+
+.headline-4 {
+    font-size: 10px;
+}
+
+.headline-5 {
+    font-size: 17px;
+
+}
